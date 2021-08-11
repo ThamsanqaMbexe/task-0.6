@@ -9,5 +9,3 @@ function maxNum(a, b, c) {
         return "all even";
     }
 }
-
-console.log(maxNum(8, 7, 5));
